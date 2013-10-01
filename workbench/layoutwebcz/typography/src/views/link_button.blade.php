@@ -1,0 +1,1 @@
+<a href="{{ $url }}" class="btn @if($class) {{ $class }}@endif"@if($attributes) {{ $attributes }}@endif> @if ($icon) <i class="{{ $icon }}"></i> @endif{{ $message }}</a>

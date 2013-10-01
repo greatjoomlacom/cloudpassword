@@ -1,0 +1,35 @@
+body
+{
+    background: transparent url(../images/page-bg.png) 0 0 repeat scroll;
+}
+
+/* Container - top margin */
+.login-container
+{
+    margin-top: 5em;
+}
+
+/* Header */
+.login-container .login-form .login-header
+{
+    padding: .3em;
+}
+
+/* Login form */
+.login-container .login-form
+{
+    border: 1px solid lightgrey;
+    padding: 1em 1em 0 1em;
+    float: none;
+    background-color: #ffffff;
+}
+
+/* Footer */
+.login-container .login-footer
+{
+    font-size: 150%;
+    font-weight: bold;
+    margin-top: 2em;
+    text-shadow: 4px 2px 5px rgba(150, 150, 150, 0.8);
+    text-transform: lowercase;
+}

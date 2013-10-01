@@ -1,0 +1,1 @@
+<div class="alert alert-info">@if($icon)<i class="icon-info-sign" style="float: left; margin-right: .5em;"></i> @endif{{ $message }}</div>

@@ -1,0 +1,1 @@
+<div class="alert alert-danger">@if($icon)<i class="icon-exclamation-sign" style="float: left; margin-right: .5em;"></i> @endif{{ $message }}</div>
